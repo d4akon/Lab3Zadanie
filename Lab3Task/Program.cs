@@ -1,4 +1,5 @@
-﻿using ConsoleApp.Logger;
+﻿using Lab3Task.Classes;
+using Lab3Task.Interfaces;
 
 namespace Lab3Task
 {

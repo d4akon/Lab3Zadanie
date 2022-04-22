@@ -8,6 +8,6 @@ namespace Lab3Task.Interfaces
 {
     public interface ILogger : IDisposable
     {
-        public void Log(params String[] messages);
+        void Log(params String[] messages);
     }
 }

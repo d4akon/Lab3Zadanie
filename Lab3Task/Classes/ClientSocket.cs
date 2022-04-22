@@ -4,7 +4,7 @@ using System.Net.Sockets;
 
 namespace Lab3Task.Classes
 {
-    public class ClientSocket : IDisposable
+    public class ClientSocket
     {
         private bool disposed;
         private Socket socket;

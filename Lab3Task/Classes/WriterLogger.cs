@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Net.Sockets;
 using Lab3Task.Interfaces;
 
 namespace Lab3Task.Classes
@@ -12,10 +10,13 @@ namespace Lab3Task.Classes
     {
         protected TextWriter writer;
 
-        public virtual void Log(params string[] message)
+        public virtual void Log(params string[] messages)
         {
-            //TODO
-            // Uzupełnić to miejsce o logikę zapisu opartą o TextWriter ...
+            string sendedMessage = DateTime.Now.ToString("yyyy-MM-ddTHH:mm:sszzz") + ": ";
+            foreach (var message in messages) sendedMessage += message + " ";
+
+            writer.WriteLine(sendedMessage);
+            writer.Flush();
         }
 
         public abstract void Dispose();
