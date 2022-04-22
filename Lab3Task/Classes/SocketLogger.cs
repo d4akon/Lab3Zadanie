@@ -25,7 +25,7 @@ namespace Lab3Task.Classes
             this.Dispose(false);
         }
 
-        public virtual void Log(params string[] messages)
+        public void Log(params string[] messages)
         {
             DateTime time = DateTime.Now;
 

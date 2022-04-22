@@ -1,0 +1,16 @@
+D:\projects\Lab3Task\Lab3Task\bin\Debug\net5.0\Lab3Task.exe
+D:\projects\Lab3Task\Lab3Task\bin\Debug\net5.0\Lab3Task.deps.json
+D:\projects\Lab3Task\Lab3Task\bin\Debug\net5.0\Lab3Task.runtimeconfig.json
+D:\projects\Lab3Task\Lab3Task\bin\Debug\net5.0\Lab3Task.runtimeconfig.dev.json
+D:\projects\Lab3Task\Lab3Task\bin\Debug\net5.0\Lab3Task.dll
+D:\projects\Lab3Task\Lab3Task\bin\Debug\net5.0\ref\Lab3Task.dll
+D:\projects\Lab3Task\Lab3Task\bin\Debug\net5.0\Lab3Task.pdb
+D:\projects\Lab3Task\Lab3Task\obj\Debug\net5.0\Lab3Task.csproj.AssemblyReference.cache
+D:\projects\Lab3Task\Lab3Task\obj\Debug\net5.0\Lab3Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Lab3Task\Lab3Task\obj\Debug\net5.0\Lab3Task.AssemblyInfoInputs.cache
+D:\projects\Lab3Task\Lab3Task\obj\Debug\net5.0\Lab3Task.AssemblyInfo.cs
+D:\projects\Lab3Task\Lab3Task\obj\Debug\net5.0\Lab3Task.csproj.CoreCompileInputs.cache
+D:\projects\Lab3Task\Lab3Task\obj\Debug\net5.0\Lab3Task.dll
+D:\projects\Lab3Task\Lab3Task\obj\Debug\net5.0\ref\Lab3Task.dll
+D:\projects\Lab3Task\Lab3Task\obj\Debug\net5.0\Lab3Task.pdb
+D:\projects\Lab3Task\Lab3Task\obj\Debug\net5.0\Lab3Task.genruntimeconfig.cache

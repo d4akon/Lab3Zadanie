@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Lab3Task.Interfaces
 {
-    public interface ILogger : IDisposable
+    public interface ILogger : IDisposable, System.IDisposable
     {
         void Log(params String[] messages);
+        void Dispose();
     }
 }
